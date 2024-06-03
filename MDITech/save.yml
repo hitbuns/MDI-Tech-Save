@@ -36,3 +36,9 @@ med-term-saves:
   febrile: "In a state of having a fever or exhibiting symptoms of it \n"
   febrile neutropenia: "Px has lowered neutrophil count and is exhibiting signs \n\
     of a fever "
+  amoebiasis: "A type of diarrhea caused by a parasite known as Entamoeba \nhistolytica\
+    \ which infects the bowel. This is more prevalent \namongst px travelling to developing\
+    \ countries "
+  crystalluria: 'Presenece of crystals in urine '
+  epididymo-orchitis (epididymo orchitis): "Inflammation of the tube that transports\
+    \ sperm (epidydimis) \nand the testicle (testis) "
