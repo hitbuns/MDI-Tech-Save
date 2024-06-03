@@ -22,3 +22,17 @@ med-term-saves:
   g6pd deficiency: "A genetic condition where the body produces less of the \ng6pd\
     \ enzyme leading to a lesser protective role over RBC's \nand thus increases the\
     \ risk of anemia for the px "
+  methemoglobinemia: "Blood disorders that affects how Red Blood Cells (RBC's) \n\
+    deliver oxygen in the body "
+  cockayne syndrome: "A rare hereditary genetic disorder where the px are sensitive\
+    \ \nto sunlight, short stature and appears to have premature \naging "
+  blood dyscrasias: "Imbalance of body fluids - Blood, Bile, Lypmh and Phlegm \n"
+  leucopenia: "A form of blood dyscrasia where there is a lower white blood \ncell\
+    \ count (WBC's) "
+  dyscrasias: "An imbalance or abnormal amount of something within the \nbody "
+  -penia: 'Low levels of something in the body '
+  neutropenia: "A form of leucopenia where there is a lower neutrophil \ncount in\
+    \ the body "
+  febrile: "In a state of having a fever or exhibiting symptoms of it \n"
+  febrile neutropenia: "Px has lowered neutrophil count and is exhibiting signs \n\
+    of a fever "
